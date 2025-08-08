@@ -12,6 +12,7 @@ This repository showcases my complete work during the **Codveda Internship**, sp
   - Handled missing values (drop/impute)
   - Removed duplicates
   - Standardized date and category formats using `pandas`
+    http://localhost:8888/lab/tree/Level_1_Data_Cleaning_Preprocessing.ipynb
 
 ### ✅ Task 2: Exploratory Data Analysis (EDA)
 - Summary Statistics (mean, median, std, mode)
@@ -86,7 +87,7 @@ This repository showcases my complete work during the **Codveda Internship**, sp
 
 | File | Description |
 |------|-------------|
-| `Level_1_Data_Cleaning_Preprocessing.ipynb` | Cleaning Iris & Stock data |
+| `Level_1_Data_Cleaning_Preprocessing.ipynb' | Cleaning Iris & Stock data |
 | `Level_1_Exploratory_Data_Analysis.ipynb` | EDA using pandas/seaborn |
 | `Level_1_Data_Visualization.ipynb` | Plots & graph exports |
 | `Level_2_Regression_Analysis.ipynb` | Linear Regression on stock data |
