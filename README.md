@@ -111,10 +111,6 @@ This repository showcases my complete work during the **Codveda Internship**, ba
 📍 Public Health & Data Enthusiast | Intern @Codveda  
 💡 Passionate about solving real-world problems using data
 
----
-## 📬 Contact
-
-**Simegn Girma**  
 📧 Email: [simegng48@gmail.com]  
 🌍 Addis Ababa, Ethiopia  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/simegn-girma-408b92261/)
