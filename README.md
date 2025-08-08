@@ -1,6 +1,6 @@
 # 🎓 Codveda Data Analytics Internship Project
 
-This repository showcases my complete work during the **Codveda Internship**, spanning basic to advanced data analytics tasks using Python and Power BI.
+This repository showcases my complete work during the **Codveda Internship**, basic to advanced data analytics tasks using Python and Power BI.
 
 ---
 
@@ -12,8 +12,7 @@ This repository showcases my complete work during the **Codveda Internship**, sp
   - Handled missing values (drop/impute)
   - Removed duplicates
   - Standardized date and category formats using `pandas`
-    http://localhost:8888/lab/tree/Level_1_Data_Cleaning_Preprocessing.ipynb
-
+   
 ### ✅ Task 2: Exploratory Data Analysis (EDA)
 - Summary Statistics (mean, median, std, mode)
 - Correlation matrix
@@ -87,21 +86,23 @@ This repository showcases my complete work during the **Codveda Internship**, sp
 
 | File | Description |
 |------|-------------|
-| `Level_1_Data_Cleaning_Preprocessing.ipynb' | Cleaning Iris & Stock data |
-| `Level_1_Exploratory_Data_Analysis.ipynb` | EDA using pandas/seaborn |
-| `Level_1_Data_Visualization.ipynb` | Plots & graph exports |
-| `Level_2_Regression_Analysis.ipynb` | Linear Regression on stock data |
-| `Level_2_Time_Series_Analysis.ipynb` | Time Series Trend Analysis |
-| `Level_2_KMeans_Clustering.ipynb` | KMeans Clustering on Iris |
-| `Level_3_Classification_Modeling.ipynb` | Classification models for Iris |
-| `PowerBI_StockDashboard.pbix` | Interactive dashboard (Power BI) |
+| `Level_1_Data_Cleaning_Preprocessing.ipynb .pdf  | Cleaning Iris & Stock data |
+| `Level_1_Exploratory_Data_Analysis.ipynb.pdf | EDA using pandas/seaborn |
+| `Level_1_Data_Visualization.ipynb.pdf | Plots & graph exports |
+| `Level_2_Regression_Analysis.ipynb.pdf | Linear Regression on stock data |
+| `Level_2_Time_Series_Analysis.ipynb .pdf | Time Series Trend Analysis |
+| `Level_2_KMeans_Clustering.ipynb.pdf | KMeans Clustering on Iris |
+| `Level_3_Classification_Modeling.ipynb .pdf | Classification models for Iris |
 | `images/dashboard_screenshot.png` | Power BI dashboard image |
 
 ---
-
-
+  ##   Datasets
+│ ├── iris.csv 
+│ └── stock_prices_cleaned.csv
+       
 
 ---
+
 
 ## 🙋 About Me
 
@@ -110,4 +111,9 @@ This repository showcases my complete work during the **Codveda Internship**, sp
 💡 Passionate about solving real-world problems using data
 
 ---
+## 📬 Contact
 
+**Simegn Girma**  
+📧 Email: [simegng48@gmail.com]  
+🌍 Addis Ababa, Ethiopia  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/simegn-girma-408b92261/)
