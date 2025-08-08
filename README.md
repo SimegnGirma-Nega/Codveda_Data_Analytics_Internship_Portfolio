@@ -80,18 +80,8 @@ This repository showcases my complete work during the **Codveda Internship**, ba
 
 ---
 
-## 📂 Folder Guide
 
-| File | Description |
-|------|-------------|
-| `Level_1_Data_Cleaning_Preprocessing.ipynb .pdf  | Cleaning Iris & Stock data |
-| `Level_1_Exploratory_Data_Analysis.ipynb.pdf | EDA using pandas/seaborn |
-| `Level_1_Data_Visualization.ipynb.pdf | Plots & graph exports |
-| `Level_2_Regression_Analysis.ipynb.pdf | Linear Regression on stock data |
-| `Level_2_Time_Series_Analysis.ipynb .pdf | Time Series Trend Analysis |
-| `Level_2_KMeans_Clustering.ipynb.pdf | KMeans Clustering on Iris |
-| `Level_3_Classification_Modeling.ipynb .pdf | Classification models for Iris |
-| `images/dashboard_screenshot.png` | Power BI dashboard image |
+
 
 ---
   
