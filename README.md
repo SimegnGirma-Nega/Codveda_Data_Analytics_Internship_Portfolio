@@ -69,8 +69,6 @@ This repository showcases my complete work during the **Codveda Internship**, ba
 
 ---
 
-## 🏷️ Tags
-#CodvedaInternship #CodvedaProjects #DataAnalytics #PowerBI #Python #EDA #MachineLearning
 
 ---
 
@@ -109,7 +107,7 @@ This repository showcases my complete work during the **Codveda Internship**, ba
 
 ## 🙋 About Me
 
-**Simegn Girma Nega**  
+**Simegn Girma**  
 📍 Public Health & Data Enthusiast | Intern @Codveda  
 💡 Passionate about solving real-world problems using data
 
