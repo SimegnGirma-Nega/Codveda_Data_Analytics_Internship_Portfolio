@@ -96,10 +96,13 @@ This repository showcases my complete work during the **Codveda Internship**, ba
 | `images/dashboard_screenshot.png` | Power BI dashboard image |
 
 ---
-  ##   Datasets
-│ ├── iris.csv [https://github.com/SimegnGirma-Nega/Codveda_Data_Analytics_Internship_Portfolio/blob/main/1)%20iris_cleaned.csv.csv]
-│ └── stock_prices_cleaned.csv
-       
+  
+## Datasets
+
+| File | Link |
+|------|------|
+| iris.csv | [Download](https://github.com/SimegnGirma-Nega/Codveda_Data_Analytics_Internship_Portfolio/blob/main/1%29%20iris_cleaned.csv.csv) |
+| stock_prices_cleaned.csv | [Download](https://github.com/SimegnGirma-Nega/Codveda_Data_Analytics_Internship_Portfolio/blob/main/stock_prices_cleaned%20(1).csv) |
 
 ---
 
