@@ -74,7 +74,7 @@ This repository showcases my complete work during the **Codveda Internship**, ba
 
 ## 📽️ LinkedIn Video Submission
 > I created a **2-minute LinkedIn video** summarizing the above tasks.  
-> 📌 [View My Video Here](your-video-link)  
+> 📌 [View My Video Here]( https://www.linkedin.com/posts/simegn-girma-408b92261_codvedajourney-codvedaexperience-futurewithcodveda-activity-7359875757491298304-jXfQ?utm_source=share&utm_medium=member_android&rcm=ACoAAEBsvMgB-sa7qos4gmxt1lUz7x4dRaY8_EU )  
 > 👤 Tag: `@Codveda Technology`  
 > Hashtags: `#CodvedaAchievements` `#CodvedaInternship`
 
